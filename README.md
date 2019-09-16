@@ -7,6 +7,9 @@
 * CSS
 * Webpack
 * Sass
+  * Mixins
+  * Partials
+  * Functions
 * Lazy Loading
 * Gulp
 * Grunt
