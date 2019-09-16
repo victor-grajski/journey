@@ -2,7 +2,8 @@
 
 * ES6
 * React
-* React Native
+   * Styled Components
+   * Native
 * Typescript
 * CSS
 * Webpack
@@ -13,3 +14,4 @@
 * Lazy Loading
 * Gulp
 * Grunt
+
